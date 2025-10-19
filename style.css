@@ -384,6 +384,9 @@ main section.view6 .cards:nth-child(3) {
   main section.view3 .bottom {
     width: 50%;
   }
+  main section.view3 .top {
+    height: auto;
+  }
   main section.view3 .bottom {
     justify-content: space-between;
     padding: 3rem;
@@ -405,6 +408,9 @@ main section.view6 .cards:nth-child(3) {
   main section.view4 .top,
   main section.view4 .bottom {
     width: 50%;
+  }
+  main section.view4 .top {
+    height: auto;
   }
   main section.view4 .bottom {
     padding: 3rem;

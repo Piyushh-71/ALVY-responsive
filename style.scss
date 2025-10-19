@@ -379,6 +379,9 @@ main {
       .bottom {
         width: 50%;
       }
+      .top {
+        height: auto;
+      }
       .bottom {
         justify-content: space-between;
         padding: 3rem;
@@ -404,6 +407,9 @@ main {
       .top,
       .bottom {
         width: 50%;
+      }
+      .top {
+        height: auto;
       }
       .bottom {
         padding: 3rem;
